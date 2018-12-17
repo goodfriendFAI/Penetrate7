@@ -1,0 +1,6 @@
+#!/bin/sh
+echo
+echo " P E N E T R A T E 7"
+echo
+
+ansible-playbook playbooks/amazon.yml

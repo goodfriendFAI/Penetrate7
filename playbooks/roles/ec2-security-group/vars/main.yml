@@ -1,0 +1,2 @@
+---
+aws_security_group: "penetrate7-{{ aws_instance_name }}"
